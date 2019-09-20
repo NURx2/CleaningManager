@@ -1,0 +1,1 @@
+This is the application for roommates in a dormitory, which allows to track the execution and quality of a cleaning. Uses Python 3, SQLAlchemy, Flask, Openpyxl.
